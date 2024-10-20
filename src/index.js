@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
     </head>
     <body>
       <div class="container">
-        <h1>COYS</h1>
+        <h1>COYS z </h1>
       </div>
     </body>
     </html>
